@@ -13,3 +13,9 @@ A WordPress plugin which installs the Magnific Popup lightbox
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+
+## Version History
+
+1.0.1   Semver.
+
+1.0     Intial commit
