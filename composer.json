@@ -1,0 +1,21 @@
+{
+	"name": "dmpinder/magnific-popup-wordpress-mu-plugin",
+	"description": "A WordPress plugin which installs the Magnific Popup lightbox.",
+	"homepage": "https://github.com/dmpinder/magnific-popup-wordpress-mu-plugin",
+	"type" : "wordpress-plugin",
+	"keywords": [
+		"wordpress"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name":"Darren Pinder",
+			"email":"darren@vatu.co.uk",
+			"homepage":"https://vatu.co.uk"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0",
+		"johnpbloch/wordpress": "*"
+	 }
+}
