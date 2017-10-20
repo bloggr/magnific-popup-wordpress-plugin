@@ -1,7 +1,7 @@
 {
-	"name": "dmpinder/magnific-popup-wordpress-mu-plugin",
+	"name": "dmpinder/magnific-popup-wordpress-plugin",
 	"description": "A WordPress plugin which installs the Magnific Popup lightbox.",
-	"homepage": "https://github.com/dmpinder/magnific-popup-wordpress-mu-plugin",
+	"homepage": "https://github.com/dmpinder/magnific-popup-wordpress-plugin",
 	"type" : "wordpress-plugin",
 	"keywords": [
 		"wordpress"
