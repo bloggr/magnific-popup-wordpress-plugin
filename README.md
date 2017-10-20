@@ -1,10 +1,10 @@
 # A WordPress must-use plugin which installs the Magnific Popup lightbox
 
-A WordPress must-use plugin which installs the Magnific Popup lightbox.
+A WordPress plugin which installs the Magnific Popup lightbox.
 
 ## Intro
 
-A WordPress must-use plugin which installs the Magnific Popup lightbox
+A WordPress plugin which installs the Magnific Popup lightbox
 
 ## Contributing
 
