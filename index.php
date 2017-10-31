@@ -3,7 +3,7 @@
   Plugin Name:          Magnific Popup WordPress Plugin
   Plugin URI:           https://github.com/dmpinder/magnific-popup-wordpress-mu-plugin
   Description:          A WordPress plugin which installs Magnific Popup
-  Author:               Dmitry Semenov, Darren Pinder
+  Author:               Dmitry Semenov, Darren Pinder, Ralph Morris
   Version:              1.0.0
   Author URI:           https://github.com/dmpinder
   GitHub Plugin URI:    https://github.com/dmpinder/magnific-popup-wordpress-mu-plugin
