@@ -1,6 +1,6 @@
 var magnific = {
 	init: function () {
-		jQuery('.magnific-me').magnificPopup({
+		jQuery('.magnific-me, .lightbox').magnificPopup({
 			delegate: 'a',
 			type:     'image',
 			gallery:  {
