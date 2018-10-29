@@ -6,6 +6,11 @@ A WordPress plugin which installs the Magnific Popup lightbox.
 
 A WordPress plugin which installs the Magnific Popup lightbox
 
+## How it works
+
+1. Install the plugin
+2. Add the class `.magnific-me` or `.lightbox` to any <a> elements you want to use the magnific popup for
+
 ## Contributing
 
 1. Fork it!
